@@ -1,9 +1,12 @@
-/* h1  {*/
-.info {  
-  color: skyblue;
+.btn {
+  width: 100px;
+  background-color: skyblue;
+  text-align: center;
+  padding: 4px;
+  color: white;
+  cursor: pointer;
 }
 
-
-.title {
-  font-weight: normal;
+.btn:hover {
+  opacity: 0.8;
 }
