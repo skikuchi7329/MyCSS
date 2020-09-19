@@ -1,8 +1,9 @@
-ul {
-  list-style-type: circle;
+/* h1  {*/
+.info {  
+  color: skyblue;
 }
 
-ol {
-  /* list-style:lower-alpha; */
-  list-style:none;
+
+.title {
+  font-weight: normal;
 }
